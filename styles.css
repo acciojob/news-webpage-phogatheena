@@ -1,8 +1,7 @@
 /*  your css code here. If applicable */
 #navbar
 {
-    display: flex;
-    justify-content:center;
+    text-align:center;
     background-color:  #011e29;
     width: 100%;
 	color:white;

@@ -50,6 +50,7 @@ img{
 	border-radius:15px;
 	padding:7px;
 	width:33%;
+	text-align:center;
 	display: flex;
 	flex-direction:column;
 	height:80%;

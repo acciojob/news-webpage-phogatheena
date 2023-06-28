@@ -1,1 +1,42 @@
 /*  your css code here. If applicable */
+#navbar
+{
+    display: flex;
+    justify-content:center;
+    background-color:  #011e29;
+    width: 100%;
+	color:white;
+    padding:20px 20px;
+    font-size: x-large;
+    position: fixed;
+    z-index: 1000;
+}
+#section
+{
+	display: flex;
+    justify-content: space-between;
+
+}
+#main
+{
+	position:relative;
+	top:80px;
+}
+#one
+{
+	
+	background-color:white;
+	border-radius:15px;
+	padding:7px;
+	width:30%;
+	height:20%;
+	
+}
+
+#two
+{
+	background-color:white;
+	border-radius:15px;
+	padding:7px;
+	width:33%;
+}
